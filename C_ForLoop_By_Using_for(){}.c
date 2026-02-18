@@ -2,13 +2,13 @@
 #include <string.h>
 
 int main() {
-    int limit = 50; //<!------ Initialize the limit for the loop ------!>
+    int limit = 50; //<!------_Initialize_the_limit_for_the_loop_------!>
 
-    //<!------ Start a loop that runs from 0 to the specified limit ------!>
+    //<!------_Start_a_loop_that_runs_from_0_to_the_specified_limit_------!>
     for (int loop = 0; loop <= limit; loop++) {
-        //<!------ Print the current loop iteration ------!>
+        //<!------_Print_the_current_loop_iteration_------!>
         printf("Loop Started...%d\n", loop);
     }
 
-    return 0; //<!------ Indicate successful program termination ------!>
+    return 0; //<!------_Indicate_successful_program_termination_------!>
 }

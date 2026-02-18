@@ -2,13 +2,13 @@
 #include <stdlib.h>
 
 int main() {
-   //<!------ Declare and initialize an integer array with values 0 to 9 ------!>
+   //<!------_Declare_and_initialize_an_integer_array_with_values_0_to_9_------!>
    int number[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
    
-   //<!------ Declare and initialize a character array with values 'A' to 'F' ------!>
+   //<!------_Declare_and_initialize_a_character_array_with_values_'A'_to_'F'_------!>
    char character[] = {'A','B','C','D','E','F'};
    
-   //<!------ Print each element of the integer array ------!>
+   //<!------_Print_each_element_of_the_integer_array_------!>
    printf("Choosed Numbers:\t%d\n", number[0]);
    printf("Choosed Numbers:\t%d\n", number[1]);
    printf("Choosed Numbers:\t%d\n", number[2]);
@@ -20,7 +20,7 @@ int main() {
    printf("Choosed Numbers:\t%d\n", number[8]);
    printf("Choosed Numbers:\t%d\n", number[9]);
    
-   //<!------ Print each element of the character array ------!>
+   //<!------_Print_each_element_of_the_character_array_------!>
    printf("Choosed character:\t%c\n", character[0]);
    printf("Choosed character:\t%c\n", character[1]);
    printf("Choosed character:\t%c\n", character[2]);
@@ -28,5 +28,5 @@ int main() {
    printf("Choosed character:\t%c\n", character[4]);
    printf("Choosed character:\t%c\n", character[5]);
 
-   return 0; //<!------ Indicate successful program termination ------!>
+   return 0; //<!------_Indicate_successful_program_termination_------!>
 }
