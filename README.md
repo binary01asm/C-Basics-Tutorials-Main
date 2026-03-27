@@ -16,7 +16,7 @@
 - [SPI](https://github.com/espressif/arduino-esp32/tree/master/libraries%2FSPI)
 - [ezButton](https://github.com/ArduinoGetStarted/button)
 ## **```⚡ Hardware Connections```**
-```
+
 | ESP8266 Pin | NRF24L01 (A) Pin | NRF24L01 (B) Pin | Description |
 |------------|-------------------|------------------|-------------|
 | D1 (GPIO5) |               | CSN           | Chip Select |
@@ -34,7 +34,7 @@
 | ESP8266 Pin | Button Pin | Description |
 |------------|---------|-------------|
 | RX (GPIO3) | Button  | User input button (Another PIN Button to GND) |
-```
+
 ### **```Circuit Diagram```**
  <img src="Bluetooth_jammer_circuit.png" width="100%" /></br>
 
