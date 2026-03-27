@@ -62,13 +62,13 @@ Press the button to switch between the following modes:
 
 ### **```Example photos```**
 
- <img src="PHOTOS/Pic1.jpg" width="100%" /></br>
+ <img src="PHOTOS/pic1.jpg" width="100%" /></br>
  
  ---
- <img src="PHOTOS/Pic2.jpg" width="100%" /></br>
+ <img src="PHOTOS/pic2.jpg" width="100%" /></br>
  
  ---
- <img src="PHOTOS/Pic3.jpg" width="100%" /></br>
+ <img src="PHOTOS/pic3.jpg" width="100%" /></br>
  
  ---
 ## **```📜 License & Legal Disclaimer```**
